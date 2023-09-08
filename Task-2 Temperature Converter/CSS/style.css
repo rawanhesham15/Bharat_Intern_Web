@@ -1,0 +1,18 @@
+body{
+    background-color: #F29727;
+    font-family: Roboto Slab;
+    /* background: '../IMAGES/background.png'; */
+}
+
+.boxShadow{
+    box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+}
+
+.txt{
+    font-size: 20px;
+    color: white;
+}
+
+.inputHover:hover{
+    box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+}
